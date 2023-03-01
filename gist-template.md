@@ -32,7 +32,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Flags
 
-### Grouping and Capturing
+### Grouping and Capturi
 
 ### Bracket Expressions
 
